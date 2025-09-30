@@ -1,7 +1,7 @@
-##Hello it's me
+#Hello it's me
 
 ---
-#I try to learn
+##I try to learn
 
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 
