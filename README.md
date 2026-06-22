@@ -3,7 +3,6 @@
 ---
 I try to learn
 
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
 
 ---
